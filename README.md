@@ -13,5 +13,5 @@
 
 > **Warning**  
 > Before you try to submit an bug in my dms. Instead, post an video of what the bug is, so I can understand and try to fix it.<br>
-> Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting them.
+> Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting them.<br>
 <br><b>You can submit a bug <span><a href="https://discord.gg/jgse22VYsf">here</span></b>
