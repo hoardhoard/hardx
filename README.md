@@ -12,6 +12,5 @@
 
 
 > **Warning**  
-> Before you try to submit an bug in my dms. Instead, post an video of what the bug is, so I can understand and try to fix it.
-> 
+> Before you try to submit an bug in my dms. Instead, post an video of what the bug is, so I can understand and try to fix it.<br>
 > Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting them.
