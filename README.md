@@ -9,4 +9,5 @@
 <h3>
   Bugs
 </h3>
-> **Warning:** This is a warning message.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
