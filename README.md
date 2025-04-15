@@ -7,7 +7,7 @@
   </h2>
 </div>
 
-<h3>Bugs</h3>
+<h2>Bugs</h2>
 
 
 <b>You can submit a bug <span><a href="https://discord.gg/jgse22VYsf">here</span></b>
@@ -15,6 +15,8 @@
 > **Warning**  
 > Before you try to submit an bug in my dms. Instead, post an video of what the bug is, so I can understand and try to fix it.<br>
 > Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting them.<br>
-<h3>Usage</h3>
-<h4>Script:</h4>
-<p>Sorry! Hardx is currently under development.</p>
+<h2>Usage</h2>
+<h3>Script</h3>
+```lua
+Sorry! Hardx is currently in development, check back later!
+```
