@@ -18,3 +18,7 @@
 <h2>Usage</h2>
 <h3>Script</h3>
 <b>Sorry! Hardx is currently in development, check back later!</b>
+<h3>Updates</h3>
+<b>Sorry! Hardx is currently in development, check back later!</b>
+<h2>Developers and Credits</h2>
+<b>Owner: hoard</b>
