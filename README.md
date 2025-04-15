@@ -9,5 +9,6 @@
 
 <h3>Bugs</h3>
 
-> **Warning:**  
-> This is a critical warning message.
+> **Warning**  
+> Before you try to submit an bug in my dms. Instead, post an video of what the bug is, so I can understand and try to fix it.
+> Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting their function.
