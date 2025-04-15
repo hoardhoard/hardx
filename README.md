@@ -17,6 +17,4 @@
 > Also, some bugs may not be fixable, and that might result into me permantely deleting them, or rewriting them.<br>
 <h2>Usage</h2>
 <h3>Script</h3>
-```lua
-Sorry! Hardx is currently in development, check back later!
-```
+<b>Sorry! Hardx is currently in development, check back later!</b>
