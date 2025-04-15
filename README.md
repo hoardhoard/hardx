@@ -22,3 +22,6 @@
 <b>Sorry! Hardx is currently in development, check back later!</b>
 <h2>Developers and Credits</h2>
 <b>Owner: hoard</b>
+> **Note**
+> HardX is an solo project worked on by one indivual, which is hoard (main developer and parent for hardx)
+> If you dont like or think that the script is horrible, its because im really not that great at lua. Nor luau.
