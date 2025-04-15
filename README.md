@@ -10,4 +10,4 @@
 <h3>Bugs</h3>
 
 > **Warning:**  
-> Critical content demanding immediate user attention due to potential risks.
+> This is a critical warning message.
