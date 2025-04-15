@@ -3,7 +3,7 @@
   <h2 align="center">
       <b style="font-size: 36px;">When winning is hard, Make it easy.</b>
       <br>
-      <b style="font-size: 36px;">Effortlessly crush your enemies without having to try.</b>
+      <b style="font-size: 36px;">Effortlessly <span><b>CRUSH</b></span> your enemies without having to try.</b>
   </h2>
 </div>
 
