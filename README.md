@@ -25,6 +25,6 @@
 <br>
 <br>
 
-> **Warning**  
+> **Note**  
 > HardX is an solo project worked on by one indivual, which is hoard (main developer and parent for hardx)<br>
 > If you dont like or think that the script is horrible, its because im really not that great at lua. Nor luau.<br>
